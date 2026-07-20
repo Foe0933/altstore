@@ -80,6 +80,24 @@
 					"downloadURL": "https://www.nutaku.net/games/ero-dorado/ipa"
 				}
 			]
+		},
+		{
+			"name": "Passion Rift",
+			"bundleIdentifier": "com.jnt.passionrift",
+			"developerName": "",
+			"subtitle": "",
+			"localizedDescription": "",
+			"iconURL": "https://foe0933.github.io/altstore/icons/com.jnt.passionrift-icon.png",
+			"category": "",
+			"versions": [
+				{
+					"version": "1.1.857",
+					"buildVersion": "1560",
+					"date": "2026-06-30",
+					"size": 267852699,
+					"downloadURL": "https://www.nutaku.net/games/passion-rift/ipa"
+				}
+			]
 		}
 	]
 }

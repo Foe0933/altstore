@@ -134,6 +134,24 @@
 					"downloadURL": "https://www.nutaku.net/games/horny-villa/ipa"
 				}
 			]
+		},
+		{
+			"name": "Idol Sex",
+			"bundleIdentifier": "doremi.nutaku",
+			"developerName": "",
+			"subtitle": "",
+			"localizedDescription": "",
+			"iconURL": "https://foe0933.github.io/altstore/icons/doremi.nutaku-icon.png",
+			"category": "",
+			"versions": [
+				{
+					"version": "1.0.5",
+					"buildVersion": "40",
+					"date": "2026-06-13",
+					"size": 166648047,
+					"downloadURL": "https://www.nutaku.net/games/idol-sex/ipa"
+				}
+			]
 		}
 	]
 }

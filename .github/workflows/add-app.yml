@@ -25,5 +25,5 @@ jobs:
           git config --global user.name 'foe0933'
           git config --global user.email 'foe0933@users.noreply.github.com'
           git add .
-          git commit -am "[AUTO] Update for $(date +%Y-%M-%d)"
+          git commit -am "[GENERATED] Add app"
           git push

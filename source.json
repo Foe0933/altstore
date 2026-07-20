@@ -224,6 +224,24 @@
 					"downloadURL": "https://www.nutaku.net/games/shelter-69/ipa"
 				}
 			]
+		},
+		{
+			"name": "Amazons vs Zombies",
+			"bundleIdentifier": "com.pixelparadise.avz",
+			"developerName": "",
+			"subtitle": "",
+			"localizedDescription": "",
+			"iconURL": "https://foe0933.github.io/altstore/icons/com.pixelparadise.avz-icon.png",
+			"category": "",
+			"versions": [
+				{
+					"version": "1.67",
+					"buildVersion": "167",
+					"date": "2026-07-03",
+					"size": 210603847,
+					"downloadURL": "https://www.nutaku.net/games/amazons-vs-zombies/ipa"
+				}
+			]
 		}
 	]
 }

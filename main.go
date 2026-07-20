@@ -19,7 +19,7 @@ import (
 
 const ALTSTORE_SOURCE = "./source.json"
 const HTTP_TIME_FMT = "Mon, 02 Jan 2006 15:04:05 MST"
-const SERVER_ADDRESS = ""
+const SERVER_ADDRESS = "https://foe0933.github.io/altstore/"
 
 type App struct {
 	Name                 string    `json:"name"`
@@ -101,7 +101,7 @@ func addApp(source *Source, url string) {
 		Versions:         []Version{v},
 	}
 	app.IconURL = SERVER_ADDRESS + app.BundleIdentifier + "-icon.png"
-	extractIcon(b, app.IconURL)
+	extractIcon(b, app.BundleIdentifier + "-icon.png")
 	source.Apps = append(source.Apps, app)
 }
 

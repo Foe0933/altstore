@@ -7,5 +7,25 @@
 	"website": "https://www.nutaku.net/",
 	"nsfw": true,
 	"featuredApps": [],
-	"apps": []
+	"apps": [
+		{
+			"name": "Lust Goddess",
+			"bundleIdentifier": "com.brawea.chickgoddessnutaku",
+			"developerName": "",
+			"subtitle": "",
+			"localizedDescription": "",
+			"iconURL": "com.brawea.chickgoddessnutaku-icon.png",
+			"tintColor": "",
+			"category": "",
+			"versions": [
+				{
+					"version": "19.0.6",
+					"buildVersion": "2",
+					"date": "2026-07-14",
+					"size": 353547663,
+					"downloadURL": "https://www.nutaku.net/games/lust-goddess/ipa"
+				}
+			]
+		}
+	]
 }

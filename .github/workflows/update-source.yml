@@ -1,0 +1,22 @@
+name: Update Sources
+run-name: 
+on:
+    schedule:
+        - cron: 1 2 * * *
+    workflow_dispatch:
+jobs:
+  update-sources:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v6
+      - uses: actions/setup-go@v6
+        with:
+            go-version-file: 'go.mod'
+            cache-dependency-path: 'go.sum'
+      - run: go run ./main.go update
+      - run: |
+          git config --global user.name 'foe0933'
+          git config --global user.email 'foe0933@users.noreply.github.com'
+          git commit -am "[AUTO] Update for $(date +%Y-%M-%d)"
+          git push

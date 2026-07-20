@@ -28,7 +28,6 @@ type App struct {
 	Subtitle             string    `json:"subtitle"`
 	LocalizedDescription string    `json:"localizedDescription"`
 	IconURL              string    `json:"iconURL"`
-	TintColor            string    `json:"tintColor"`
 	Category             string    `json:"category"`
 	Versions             []Version `json:"versions"`
 }
@@ -48,6 +47,7 @@ type Source struct {
 	IconURL      string   `json:"iconURL"`
 	HeaderURL    string   `json:"headerURL"`
 	Website      string   `json:"website"`
+	TintColor    string   `json:"tintColor"`
 	Nsfw         bool     `json:"nsfw"`
 	FeaturedApps []string `json:"featuredApps"`
 	Apps         []App    `json:"apps"`

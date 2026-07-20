@@ -11,7 +11,7 @@ concurrency:
   group: add-app
   queue: max
 jobs:
-  update-sources:
+  add-app:
     runs-on: ubuntu-latest
     steps:
       - name: Check out code

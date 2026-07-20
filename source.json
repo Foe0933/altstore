@@ -116,6 +116,24 @@
 					"downloadURL": "https://www.nutaku.net/games/sluts-inc/ipa"
 				}
 			]
+		},
+		{
+			"name": "HornyVilla",
+			"bundleIdentifier": "com.greent.hornymerge",
+			"developerName": "",
+			"subtitle": "",
+			"localizedDescription": "",
+			"iconURL": "https://foe0933.github.io/altstore/icons/com.greent.hornymerge-icon.png",
+			"category": "",
+			"versions": [
+				{
+					"version": "64.1.1",
+					"buildVersion": "0",
+					"date": "2026-07-17",
+					"size": 131474645,
+					"downloadURL": "https://www.nutaku.net/games/horny-villa/ipa"
+				}
+			]
 		}
 	]
 }

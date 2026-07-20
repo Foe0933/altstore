@@ -170,6 +170,24 @@
 					"downloadURL": "https://www.nutaku.net/games/slut-squad/ipa"
 				}
 			]
+		},
+		{
+			"name": "Idle Sins",
+			"bundleIdentifier": "com.wirona.idlesins",
+			"developerName": "",
+			"subtitle": "",
+			"localizedDescription": "",
+			"iconURL": "https://foe0933.github.io/altstore/icons/com.wirona.idlesins-icon.png",
+			"category": "",
+			"versions": [
+				{
+					"version": "3",
+					"buildVersion": "0",
+					"date": "2026-03-17",
+					"size": 17542339,
+					"downloadURL": "https://www.nutaku.net/games/idle-sins/ipa"
+				}
+			]
 		}
 	]
 }

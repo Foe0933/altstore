@@ -5,6 +5,7 @@
 	"iconURL": "https://www.nutaku.net/favicon.ico",
 	"headerURL": "https://www.nutaku.net/images/bg-disclaimer-desktop.avif",
 	"website": "https://www.nutaku.net/",
+	"tintColor": "",
 	"nsfw": true,
 	"featuredApps": [],
 	"apps": [
@@ -15,7 +16,6 @@
 			"subtitle": "",
 			"localizedDescription": "",
 			"iconURL": "com.brawea.chickgoddessnutaku-icon.png",
-			"tintColor": "",
 			"category": "",
 			"versions": [
 				{

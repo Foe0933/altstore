@@ -44,6 +44,24 @@
 					"downloadURL": "https://www.nutaku.net/games/isekai-waifu-overlord/ipa"
 				}
 			]
+		},
+		{
+			"name": "Mafia Queens",
+			"bundleIdentifier": "com.nifcor.mafiaqueens",
+			"developerName": "",
+			"subtitle": "",
+			"localizedDescription": "",
+			"iconURL": "https://foe0933.github.io/altstore/iconscom.nifcor.mafiaqueens-icon.png",
+			"category": "",
+			"versions": [
+				{
+					"version": "0.4.1",
+					"buildVersion": "0",
+					"date": "2026-04-23",
+					"size": 224038071,
+					"downloadURL": "https://www.nutaku.net/games/mafia-queens/ipa"
+				}
+			]
 		}
 	]
 }

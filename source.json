@@ -26,6 +26,24 @@
 					"downloadURL": "https://www.nutaku.net/games/lust-goddess/ipa"
 				}
 			]
+		},
+		{
+			"name": "IsekaiWaifuOverlord",
+			"bundleIdentifier": "com.panda.isekai",
+			"developerName": "",
+			"subtitle": "",
+			"localizedDescription": "",
+			"iconURL": "https://foe0933.github.io/altstore/com.panda.isekai-icon.png",
+			"category": "",
+			"versions": [
+				{
+					"version": "2.14.0",
+					"buildVersion": "23",
+					"date": "2026-07-17",
+					"size": 112202056,
+					"downloadURL": "https://www.nutaku.net/games/isekai-waifu-overlord/ipa"
+				}
+			]
 		}
 	]
 }

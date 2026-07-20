@@ -1,1 +1,1 @@
-# altstore
+# Unofficial Nutaku Altstore Source

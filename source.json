@@ -1,0 +1,12 @@
+{
+	"name": "Nutaku iOS Apps",
+	"subtitle": "Unofficial altstore source for Nutaku mobile apps",
+	"description": "All games are property of Nutaku and their develepors. We do not host IPA files from Nutaku.",
+	"iconURL": "https://www.nutaku.net/favicon.ico",
+	"headerURL": "https://www.nutaku.net/images/bg-disclaimer-desktop.avif",
+	"website": "https://www.nutaku.net/",
+	"tintColor": "#D34358",
+	"nsfw": true,
+	"featuredApps": [],
+	"apps": []
+}
